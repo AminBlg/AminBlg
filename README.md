@@ -1,22 +1,14 @@
 <h1 align="center">Hi, I'm Amin</h1>
-<h3 align="center">Computer Engineering student specialized in AI. Researching Continual Neural Architecture Search for biomedical signals. Building things with embedded systems, PyTorch, and too much caffeine.</h3>
+<h3 align="center"> Senior AI automations engineer in Unscale. Building things with passion and too much caffeine.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AminBlg&label=Profile%20views&color=0e75b6&style=flat" alt="AminBlg" /> </p>
 
 <h3 align="center">What I'm working on:</h3>
 
-- Continual Neural Architecture Search for biomedical signal models (Master's thesis, w/ University of Staffordshire)
-- GTM engineering at [Growth-A](https://www.growth-a.com/) — automated data pipelines and LLM-driven workflows
-- Using [OpenClaw](https://github.com/openclaw) for AI-driven GTM automation
+- Senior AI automation engineering at [Unscale](https://unscale.io/),  automated data pipelines and LLM-driven workflows to unlock more potential from the same team.
+- [Simple English](https://github.com/AminBlg/SimpleEnglish) skill for clearer language based on ASD-STE100.
+- Using [OpenClaw](https://github.com/openclaw) for AI driven GTM automation.
 
-<h3 align="center">Featured Projects:</h3>
-
-| Project | Description |
-|---------|-------------|
-| [MRI-GAN-Synthesis](https://github.com/AminBlg/MRI-GAN-Synthesis) | DCGAN/CGAN/ACGAN for synthetic MRI brain tumor generation (Bachelor's thesis) |
-| [IoT-ECG-CNN-Monitor](https://github.com/AminBlg/IoT-ECG-CNN-Monitor) | ESP32 + CNN real-time ECG classification (1st place, Inetech hackathon) |
-| [robucar_localization_python](https://github.com/AminBlg/robucar_localization_python) | RTK GPS + IMU localization with Extended Kalman Filter on ROS2 |
-| [Space-Invaders-with-Hand-Detection](https://github.com/AminBlg/Space-Invaders-with-Hand-Detection) | PyGame + Mediapipe hand gesture controlled game |
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
