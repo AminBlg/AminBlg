@@ -7,6 +7,7 @@
 
 - Senior AI automation engineering at [Unscale](https://unscale.io/),  automated data pipelines and LLM-driven workflows to unlock more potential from the same team.
 - [Simple English](https://github.com/AminBlg/SimpleEnglish) skill for clearer language based on ASD-STE100.
+- [LeCun Skills](https://github.com/AminBlg/LeCunSkills), nine agent skills for structured reasoning, built on Yann LeCun's research concepts.
 - Using [OpenClaw](https://github.com/openclaw) for AI driven GTM automation.
 
 
