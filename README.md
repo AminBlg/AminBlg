@@ -28,9 +28,7 @@
 <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" alt="openclaw" width="40" height="40"/></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AminBlg&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="AminBlg" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AminBlg&show_icons=true&theme=synthwave&locale=en" alt="AminBlg" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=AminBlg&theme=synthwave" alt="GitHub streak" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
